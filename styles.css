@@ -90,6 +90,19 @@ button:hover {
     padding: 20px;
     border-radius: 4px;
 }
+
+.Credit {
+    position: absolute;
+    margin-top: 60%;
+    margin-bottom: none;
+    text-align: center;
+    margin-left: 55px;
+    font-family: bookman old style;
+    font-size: 40px;
+    font-style: oblique;
+    font-weight: 600;
+    color: rgb(255, 115, 0);
+}
 @media (max-width: 768px) {
     .container {
         flex-direction: column;
